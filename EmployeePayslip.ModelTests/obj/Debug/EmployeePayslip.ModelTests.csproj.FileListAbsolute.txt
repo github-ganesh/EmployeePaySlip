@@ -1,8 +1,0 @@
-C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.ModelTests\bin\Debug\EmployeePayslip.ModelTests.dll
-C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.ModelTests\bin\Debug\EmployeePayslip.ModelTests.pdb
-C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.ModelTests\bin\Debug\EmployeePayslip.Model.dll
-C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.ModelTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.ModelTests\bin\Debug\EmployeePayslip.Model.pdb
-C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.ModelTests\obj\Debug\EmployeePayslip.ModelTests.csprojResolveAssemblyReference.cache
-C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.ModelTests\obj\Debug\EmployeePayslip.ModelTests.dll
-C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.ModelTests\obj\Debug\EmployeePayslip.ModelTests.pdb
