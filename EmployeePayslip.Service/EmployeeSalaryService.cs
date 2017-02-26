@@ -9,6 +9,7 @@ namespace EmployeePayslip.Service
     /// </summary>
     public class EmployeeSalaryService
     {
+        private const int Month = 12;
         /// <summary>
         /// The employee salary repository
         /// </summary>
@@ -40,8 +41,8 @@ namespace EmployeePayslip.Service
             return new PaySlip(
                         employeeSalary.Employee,
                         paymentStarPeriod,
-                        employeeSalary.AnualSalary / 12,
-                        incomeTax.Tax / 12,
+                        employeeSalary.AnualSalary / Month,
+                        incomeTax.Tax / Month,
                         employeeSalary.SuperRate
              );
 
