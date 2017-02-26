@@ -1,0 +1,10 @@
+C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.Service\bin\Debug\Input.txt
+C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.Service\bin\Debug\EmployeePayslip.Service.dll
+C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.Service\bin\Debug\EmployeePayslip.Service.pdb
+C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.Service\bin\Debug\EmployeePayslip.Model.dll
+C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.Service\bin\Debug\EmployeePayslip.Repository.dll
+C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.Service\bin\Debug\EmployeePayslip.Model.pdb
+C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.Service\bin\Debug\EmployeePayslip.Repository.pdb
+C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.Service\obj\Debug\EmployeePayslip.Service.csprojResolveAssemblyReference.cache
+C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.Service\obj\Debug\EmployeePayslip.Service.dll
+C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.Service\obj\Debug\EmployeePayslip.Service.pdb

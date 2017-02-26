@@ -1,0 +1,13 @@
+C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.ServiceTests1\bin\Debug\EmployeePayslip.ServiceTests1.dll
+C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.ServiceTests1\bin\Debug\EmployeePayslip.ServiceTests1.pdb
+C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.ServiceTests1\bin\Debug\EmployeePayslip.Model.dll
+C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.ServiceTests1\bin\Debug\EmployeePayslip.Service.dll
+C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.ServiceTests1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.ServiceTests1\bin\Debug\EmployeePayslip.Repository.dll
+C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.ServiceTests1\bin\Debug\EmployeePayslip.Model.pdb
+C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.ServiceTests1\bin\Debug\EmployeePayslip.Service.pdb
+C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.ServiceTests1\bin\Debug\EmployeePayslip.Repository.pdb
+C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.ServiceTests1\obj\Debug\EmployeePayslip.ServiceTests1.csprojResolveAssemblyReference.cache
+C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.ServiceTests1\obj\Debug\EmployeePayslip.ServiceTests1.dll
+C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.ServiceTests1\obj\Debug\EmployeePayslip.ServiceTests1.pdb
+C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.ServiceTests1\bin\Debug\Input.txt

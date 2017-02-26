@@ -1,0 +1,4 @@
+C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.Model\bin\Debug\EmployeePayslip.Model.dll
+C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.Model\bin\Debug\EmployeePayslip.Model.pdb
+C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.Model\obj\Debug\EmployeePayslip.Model.dll
+C:\Users\SESA167253\Documents\Visual Studio 2015\Projects\EmployeePayslip\EmployeePayslip.Model\obj\Debug\EmployeePayslip.Model.pdb
